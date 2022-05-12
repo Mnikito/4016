@@ -1,7 +1,7 @@
 # Updated
 
 
-
+MobileNetV2_ASL_V2.pt is the improved model
 
 # Old
 The Training file includes all of the training for the model and shows the progress every 5 steps for each epoch
