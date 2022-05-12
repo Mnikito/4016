@@ -1,3 +1,9 @@
+#Updated
+
+
+
+
+#Old
 The Training file includes all of the training for the model and shows the progress every 5 steps for each epoch
 
 Test file uses the test dataset to predict an outcome
