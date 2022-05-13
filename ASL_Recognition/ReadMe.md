@@ -1,4 +1,5 @@
 # Updated
+# Mobile Net V2
 Training V2 is the training code for the network
 
 MobileNetV2_ASL_V2.pt is the improved model
